@@ -1,0 +1,11 @@
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\BL.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\BL.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\DAO.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\ENTIDAD.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\DAO.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\bin\Debug\ENTIDAD.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\obj\Debug\BL.csproj.CopyComplete
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\obj\Debug\BL.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\BL\obj\Debug\BL.pdb

@@ -1,0 +1,6 @@
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\bin\Debug\ENTIDAD.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\bin\Debug\ENTIDAD.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\obj\Debug\ENTIDAD.csproj.AssemblyReference.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\obj\Debug\ENTIDAD.csproj.CoreCompileInputs.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\obj\Debug\ENTIDAD.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\ENTIDAD\obj\Debug\ENTIDAD.pdb

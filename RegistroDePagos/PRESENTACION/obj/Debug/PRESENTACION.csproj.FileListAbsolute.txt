@@ -1,0 +1,17 @@
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\PRESENTACION.exe
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\PRESENTACION.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\BL.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\ENTIDAD.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\DAO.dll
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\BL.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\ENTIDAD.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\bin\Debug\DAO.pdb
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.Form1.resources
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.exe
+D:\TRABAJO\Github\RegistroDePagos\RegistroDePagos\PRESENTACION\obj\Debug\PRESENTACION.pdb
