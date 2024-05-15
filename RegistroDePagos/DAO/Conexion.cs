@@ -11,7 +11,8 @@ namespace DAO
     {
         public static SqlConnection GetConexion()
         {
-            string connectionString = @"Data Source=JCHUMPITAZ;Initial Catalog=BDCONTROLDEPAGOS;User ID=sa;Password=123456789;";
+            string connectionString = @"Data Source=DESKTOP-7PDCPH1;Initial Catalog=BDCONTROLDEPAGOS;User ID=sa;Password=123;";
+            //string connectionString = @"Data Source=JCHUMPITAZ;Initial Catalog=BDCONTROLDEPAGOS;User ID=sa;Password=123456789;";
 
             SqlConnection cn = new SqlConnection();
 
